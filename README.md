@@ -1,2 +1,2 @@
-# Belajar-Pengembangan-Machine-Learning
-Dokumentasi pribadi Belajar Pengembangan Machine Learning Dicoding
+# Learn-Machine-Learning-Development
+Personal documentation Learn Machine Learning Development by Dicoding Indonesia
